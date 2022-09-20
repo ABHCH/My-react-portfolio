@@ -27,7 +27,7 @@ const Contact = () => {
               required
             />
             <input
-              className="block w-[100%] md:w-[130%] mt-4 p-3 bg-inherit outline-none border-solid border-[1px] border-my-border-color placeholder:text-slate-400"
+              className="block w-[100%] md:w-[130%] mt-4 p-3 bg-grey outline-none border-solid border-[1px] border-my-border-color placeholder:text-slate-400"
               type="email"
               placeholder="Email"
               name="Email"
@@ -35,7 +35,7 @@ const Contact = () => {
               required
             />
             <textarea
-              className="w-[100%] md:w-[130%] mt-4 p-3 bg-inherit outline-none border-solid border-[1px] border-my-border-color placeholder:text-slate-400"
+              className="w-[100%] md:w-[130%] mt-4 p-3 bg-grey outline-none border-solid border-[1px] border-my-border-color placeholder:text-slate-400"
               placeholder="Please send your Query"
               name="message "
               cols="30"
