@@ -104,6 +104,6 @@ color: var(--font-color);
 }
 
 .contact-inputs input:focus-visible,textarea:focus{
-  color: white;
+  color: black;
 }
 
