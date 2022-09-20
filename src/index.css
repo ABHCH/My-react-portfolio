@@ -19,6 +19,11 @@ body{
   height: 100vh;
 }
 
+.navbar{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 .logo .m{
   font-family: var(--my-font);
   color: transparent;
@@ -101,3 +106,4 @@ color: var(--font-color);
 .contact-inputs input:focus-visible,textarea:focus{
   color: white;
 }
+
