@@ -3,7 +3,13 @@ import React from 'react'
 const About = () => {
   return (
     <>
-    <h1 className='text-4xl text-white'>Coming soon ...... </h1>
+    <div>
+      <div className='main-cont flex justify-center'>
+        <div className='relative text-center text-white'>
+          <h1 className='text-7xl'> About </h1>
+        </div>
+      </div>
+    </div>
     </>
   )
 }
